@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "six-control-main",
+    "slug": "six-control-main",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
